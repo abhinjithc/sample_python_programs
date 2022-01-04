@@ -7,7 +7,7 @@ def isPrime(n):
             return 1
         i+=1
     return 0
-
+"""  NEW CHANGES MADE """
 def Prime(a,b):
     i=a
     while(i<=b):
@@ -15,5 +15,6 @@ def Prime(a,b):
             print(i)
         i+=1
 
-Prime(5,100)
+Prime(0,200)
+
     
