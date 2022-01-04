@@ -1,2 +1,7 @@
 Sample Python codes
 Basic Programs in Python
+Prime numbers
+Fibanocci Series 
+Sample Inheritance Structure
+
+All files updated
