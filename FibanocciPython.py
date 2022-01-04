@@ -8,5 +8,5 @@ def fib(r):
         b=c
     print("\n")
 a=int(input("Enter No. : "))
-fib(a)
+fib(n)
 
