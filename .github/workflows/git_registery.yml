@@ -1,4 +1,4 @@
-name: ci
+name: ci new Python
 
 on:
   push:
@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/simpledemo:latest
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/simpledemo1:latest
