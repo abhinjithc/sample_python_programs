@@ -1,5 +1,4 @@
-name: CI new PY
-
+name: CI PY
 on:
   push:
     branches:
