@@ -1,3 +1,3 @@
 FROM nginx:alpine
-COPY static /usr/share/nginx/html
+COPY . .
 LABEL maintainer = "abhi_new"
